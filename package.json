@@ -1,0 +1,29 @@
+{
+  "name": "autotask",
+  "version": "0.1.0",
+  "description": "auto add task for rrys linux client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "autotask": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushiwo/rrysautotask.git"
+  },
+  "keywords": [
+    "rrys",
+    "task"
+  ],
+  "author": "chung-hsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushiwo/rrysautotask/issues"
+  },
+  "homepage": "https://github.com/rushiwo/rrysautotask#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
